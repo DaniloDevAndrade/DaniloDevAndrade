@@ -2,13 +2,13 @@
 
 # Olá! Eu sou o Danilo Andrade 🇧🇷
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&height=45&lines=Desenvolvedor+Full+Stack;TypeScript+%E2%80%A2+React+%E2%80%A2+Next.js;React+Native+%E2%80%A2+Expo" alt="Texto animado digitando: Desenvolvedor Full Stack, Sites e apps para clientes, TypeScript, React, Next.js, React Native, Expo" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=600&height=45&lines=Desenvolvedor+Full+Stack;TypeScript+%E2%80%A2+React+%E2%80%A2+Next.js;React+Native+%E2%80%A2+Expo" alt="Texto animado digitando: Desenvolvedor Full Stack, TypeScript, React, Next.js, React Native, Expo" />
 
 </div>
 
 ## 🚀 Sobre mim
 
-Tenho 26 Anos e sou natural de São Paulo, Atualmente estou cursando Engenharia da Computação pela UNIVESP. Sou um grande intuciasta de tecnologia e programação desde criança e hoje sou desenvolvedor Full Stack e trabalho como freelancer, criando sites e aplicativos para clientes.
+Tenho 26 anos e sou natural de São Paulo. Atualmente estou cursando Engenharia da Computação pela UNIVESP. Sou um grande entusiasta de tecnologia e programação desde criança e hoje sou desenvolvedor Full Stack e trabalho como freelancer, criando sites e aplicativos para clientes.
 
 - 💻 Na web: Next.js, TypeScript e Tailwind CSS
 - ⚙️ No back-end: Node.js com NestJS e Fastify
@@ -54,7 +54,7 @@ Tenho 26 Anos e sou natural de São Paulo, Atualmente estou cursando Engenharia 
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=DaniloDevAndrade&show_icons=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true&locale=pt-br" alt="Estatísticas do GitHub de Danilo Andrade" /> <img height="180" src="https://streak-stats.demolab.com/?user=DaniloDevAndrade&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&stroke=21262d&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DaniloDevAndrade&theme=github_dark" alt="Estatísticas do GitHub de Danilo Andrade" /> <img height="180" src="https://streak-stats.demolab.com/?user=DaniloDevAndrade&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff&currStreakNum=c9d1d9&sideNums=c9d1d9&sideLabels=c9d1d9&dates=8b949e&stroke=21262d&hide_border=true&locale=pt_BR" alt="Sequência de contribuições" />
 
 </div>
 
@@ -78,7 +78,7 @@ Tenho 26 Anos e sou natural de São Paulo, Atualmente estou cursando Engenharia 
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/SEU-LINKEDIN-AQUI/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white" alt="LinkedIn" /></a> <a href="https://www.instagram.com/SEU-INSTAGRAM-AQUI/"><img src="https://img.shields.io/badge/Instagram-1F6FEB?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://www.linkedin.com/in/danilosandrade/"><img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=white" alt="LinkedIn" /></a> <a href="https://www.instagram.com/odevandrade/"><img src="https://img.shields.io/badge/Instagram-1F6FEB?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 
 <br><br>
 
