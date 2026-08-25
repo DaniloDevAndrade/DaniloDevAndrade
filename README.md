@@ -14,7 +14,6 @@ Tenho 26 anos e sou natural de São Paulo. Atualmente estou cursando Engenharia 
 - ⚙️ No back-end: Node.js com NestJS e Fastify
 - 📱 No mobile: React Native com Expo
 - ✨ Gosto de interface com movimento: animações com GSAP e scroll suave com Lenis
-- 🌱 No caminho de júnior para pleno, um estudo de cada vez
 
 ## 🛠️ Tecnologias
 
